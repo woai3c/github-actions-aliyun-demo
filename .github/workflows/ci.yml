@@ -28,4 +28,4 @@ jobs:
           SOURCE: dist
           REMOTE_HOST: '118.190.217.8'
           REMOTE_USER: root
-          TARGET: /root/node-server/dist
+          TARGET: /root/node-server # 打包后的 dist 文件夹将放在 /root/node-server
